@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap');
+
+
+* { font-family: 'Readex Pro';
+
+}
+
+
+a {
+    text-decoration: none;
+    color: #0f1300!important;
+    font-weight: 500;
+}
+
+a:hover {
+    font-size: x-large;
+    color: #f24e70!important;
+    text-decoration: none;
+
+}
+
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    color: #323331;
+    font-family: 'Readex Pro';
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; 
+}
+
+.contact-form textarea {
+    
+    height: 150px; 
+}
+
+.contact-form button {
+
+    background-color: whitesmoke;
+    opacity: 75;
+    padding: 10px 20px; 
+    border: 2px solid #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    /* Button hover styles */
+    border-color: #f24e70;
+
+}
+
+
+
+.st-emotion-cache-6qob1r
+{
+    background-color: #323331;
+}
+
+
+div.st-emotion-cache-aejzcr h2{
+    color: white
+}
