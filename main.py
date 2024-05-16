@@ -20,7 +20,7 @@ Data Engineer skilled in Python, database management and building pipelines base
 """
 EMAIL = "sulemanhsk01@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://linkedin.com/sulemankarigar",
+    "LinkedIn": "https://www.linkedin.com/in/sulemankarigar/",
     "GitHub": "https://github.com/suleman1412",
     "Twitter": "https://twitter.com/suletexh",
 }
