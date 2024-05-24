@@ -62,6 +62,7 @@ header {visibility: hidden;}
 .contact-form button:hover {
     /* Button hover styles */
     border-color: #f24e70;
+    color: #f24e70;
 
 }
 
@@ -82,5 +83,18 @@ div.st-emotion-cache-aejzcr h2{
 }
 .st-emotion-cache-1nm2qww > button:nth-child(1)
 {
-    color:white
+    color:white;
+}
+div.st-emotion-cache-0:nth-child(16) > details:nth-child(1):hover{
+
+    border-color: #f24e70;
+}
+div.st-emotion-cache-0:nth-child(20) > details:nth-child(1):hover{
+
+    border-color: #f24e70;
+}
+
+div.st-emotion-cache-0:nth-child(26) > details:nth-child(1):hover{
+
+    border-color: #f24e70;
 }
