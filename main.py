@@ -101,7 +101,7 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Pandas, Numpy, Scikit-learn), SQL, C/C++
+- 👩‍💻 Programming: Python (Pandas, Numpy, Scikit-learn, FastAPI), SQL
 - 🗄️ Databases: Postgres, Snowflake, BigQuery, DuckDB
 - 🛠️ Tools: MageAI, Talend
 
@@ -114,7 +114,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Programmer Analyst Trainee | Cognizant**")
+st.write("🚧", "**Data Engineer | Cognizant**")
 st.write("06/2023 - Present")
 with st.expander("Roles and Responsibilities",expanded=True):
     st.write(
